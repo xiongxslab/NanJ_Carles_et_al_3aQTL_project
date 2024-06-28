@@ -1,5 +1,5 @@
 # NanJ_Carles_et_al_3aQTL_project
-## 1. De novo pA site identification
+## 1. _De novo_ pA site identification
 
    Code for average 3' UTR length calculation and pA site identification. 
    
