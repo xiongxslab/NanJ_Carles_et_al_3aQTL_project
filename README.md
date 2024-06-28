@@ -13,7 +13,7 @@
 
 ## 4. Colocalization and MR analysis
 
-  Code for colocalization and Mendelian Randomization analysis between different mQTLs or mQTL and disease GWAS.
+  Code for colocalization and Mendelian Randomization analysis between different mQTLs (molecular QTLs) or mQTL and disease GWAS.
 
 ## 5. downstream analysis
 
