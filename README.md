@@ -11,13 +11,13 @@
 
    Code for PDUI normalization, confounding factor (PEER factor) detection and 3'aQTL calling.
 
-## 4. colocalization and MR analysis
+## 4. Colocalization and MR analysis
 
   Code for colocalization and Mendelian Randomization analysis between different mQTLs or mQTL and disease GWAS.
 
 ## 5. downstream analysis
 
-**5.1 APA landscape analysis:** Code for cell type-specific APA detection and functional enrichment, motif enrichment and _trans_ APA regulator identification.
+**5.1 APA landscape analysis:** Code for cell type-specific APA detection and its functional enrichment analysis, motif enrichment and _trans_ APA regulator identification.
 
 **5.2 DAPA analysis:** Code for AD-differential APA and AD-differential-expressed gene identification.
 
@@ -25,6 +25,6 @@
 
 **5.4 3'aQTL regulator identification:** Code for enrichment analysis of ChIP-seq and eCLIP-seq binding sites in 3'aQTLs, and regression analysis between expression of predicted regulators and PDUI of the corresponding targets.
 
-**5.5 APOC2 analysis:** Code for conditional analysis of AD GWAS at APOC2 locus.
+**5.5 _APOC2_ analysis:** Code for conditional analysis of AD GWAS at _APOC2_ locus.
 
-**5.6 SNCA analysis:** Code for pA site of SNCA identification, its 3'aQTL calling and colocalization analysis between 3'aQTL and PD GWAS. 
+**5.6 _SNCA_ analysis:** Code for pA site of _SNCA_ identification, its 3'aQTL calling and colocalization analysis between 3'aQTL and PD GWAS. 
