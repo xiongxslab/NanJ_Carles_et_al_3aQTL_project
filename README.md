@@ -17,7 +17,7 @@
 
 ## 5. downstream analysis
 
-**5.1 APA landscape analysis:** Code for cell type-specific APA detection and its functional enrichment analysis, motif enrichment and _trans_ APA regulator identification.
+**5.1 APA landscape analysis:** Code for cell type-specific APA detection, functional and motif enrichment analysis of cell type-specific APAs, and _trans_ APA regulator identification.
 
 **5.2 DAPA analysis:** Code for AD-differential APA and AD-differential-expressed gene identification.
 
