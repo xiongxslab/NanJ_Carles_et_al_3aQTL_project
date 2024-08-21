@@ -1,0 +1,17 @@
+data.table==1.14.10
+dplyr==1.1.4
+edgeR==3.42.4
+GenomicRanges==1.52.0
+ggplot2==3.5.1
+ggpubr==0.6.0
+mice==3.16.0
+pheatmap==1.0.12
+reshape2==1.4.4
+stringr==1.5.1
+susieR==0.12.35
+UpsetR==1.4.0
+agricolae==1.3-7
+biomaRt==2.54.1
+clusterProfile==4.6.2
+coloc==5.2.3
+DESeq2==1.40.2
