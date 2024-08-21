@@ -1,4 +1,14 @@
 # NanJ_Carles_et_al_3aQTL_project
+
+## Prerequisites
+
+To run this project, you need the following prerequisites:
+
+   Python 3.10.1
+   
+   Perl 5
+   
+   R 4.2.3
 ## 1. _De novo_ pA site identification
 
    Code for average 3' UTR length calculation and pA site identification. 
