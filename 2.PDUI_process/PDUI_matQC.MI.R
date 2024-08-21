@@ -6,7 +6,7 @@ cts.list=c('Exc','Inh','Ast','Oli','Opc','Mic')
 
 ##Merge results of all chromosomes 
 for (ct in cts.list){
-  mat<- fread( paste0(matdir,"Dapars2_",ct,"_result_temp.chr1",".txt"),header=T)
+  mat<- fread( paste0(matdir,"Dapars2_",ct,"_result_temp.chr1",".txt"),header=T) # see demoData for the format
   for ( i in c(seq(2,22),"X","Y")){
     mat1<-fread(paste0(matdir,"Dapars2_",ct,"_result_temp.chr",i,".txt"),header=T)
     mat<- rbind(mat, mat1)
