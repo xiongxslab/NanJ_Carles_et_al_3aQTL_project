@@ -15,3 +15,8 @@ biomaRt==2.54.1
 clusterProfile==4.6.2
 coloc==5.2.3
 DESeq2==1.40.2
+GenomicFeatures==1.50.4
+gglogo==0.1.5
+ggbreak==0.1.2
+qvalue==2.30.0
+ggrastr==1.0.2
