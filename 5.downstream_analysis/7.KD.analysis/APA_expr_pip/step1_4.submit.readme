@@ -1,0 +1,4 @@
+bash 1.step1_2_3.merge.make_submit.basic.sh $sample_file $wkdir
+bash 2.step4.1_2.make_submit.basic.sh $sample_file $wkdir
+perl 3.Make_DaPars.conf.pl $sample_file $wkdir
+bash 4.PDUI_cal.submit.sh $wkdir
