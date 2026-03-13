@@ -41,4 +41,4 @@ To run this project, you need the following prerequisites:
 
 **5.7 _KD_ analysis:** Code for analysis in experimental validation for predicted APA regulators in this study:
 **1)APA_expr_pip** includes the code for genome mapping, mRNA expression quantification, and APA quantification;
-**2)downstream_pip** includes mRNA/APA-based clustering across samples, target definition in KD experiments, integrative analysis between KD and single-cell data, and the relevant visualization.
+**2)downstream_pip** includes the code for mRNA/APA-based clustering across samples, target definition in KD experiments, integrative analysis between KD and single-cell data, and the relevant visualization.
