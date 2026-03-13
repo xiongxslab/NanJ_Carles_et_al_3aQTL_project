@@ -38,3 +38,7 @@ To run this project, you need the following prerequisites:
 **5.5 _APOC2_ analysis:** Code for conditional analysis of AD GWAS at _APOC2_ locus.
 
 **5.6 _SNCA_ analysis:** Code for pA site of _SNCA_ identification, its 3'aQTL calling and colocalization analysis between 3'aQTL and PD GWAS. 
+
+**5.7 _KD_ analysis:** Code for analysis in experimental validation for predicted APA regulators in this study:
+**1)APA_expr_pip** includes the code for genome mapping, mRNA expression quantification, and APA quantification;
+**2)downstream_pip** includes mRNA/APA-based clustering across samples, target definition in KD experiments, integrative analysis between KD and single-cell data, and the relevant visualization.
